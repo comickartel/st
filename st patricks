@@ -233,7 +233,7 @@
     <section class="py-16 max-w-7xl mx-auto px-4">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div class="space-y-4">
-                <img src="gut.jfif" alt="Sports Field" class="rounded-2xl shadow-lg w-full h-72 object-cover border border-blue-200">
+                <img src="https://www.bing.com/images/search?view=detailV2&ccid=UMZHJvVu&id=A6EE8C376E07B3AF8C47F21079A8A2D18483565D&thid=OIP.UMZHJvVuu3o2NyUuKCy3swHaHZ&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d100064055112265&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.50c64726f56ebb7a3637252e282cb7b3%3frik%3dXVaDhNGiqHkQ8g%26pid%3dImgRaw%26r%3d0&exph=488&expw=489&q=St.+Patrick%27s+the+val+School+homabay&FORM=IRPRST&ck=E80DCA9FE907D6DCDF24614FD523E4A7&selectedIndex=0&itb=0" alt="Sports Field" class="rounded-2xl shadow-lg w-full h-72 object-cover border border-blue-200">
             </div>
             <div>
                 <span class="text-blue-700 font-semibold text-sm uppercase tracking-wider">Home of Champions</span>
